@@ -6,5 +6,7 @@ public class TestGit {
         System.out.println("ssss");
         System.out.println("的点点滴滴");
         System.out.println("爱仕达多撒多撒");
+
+        System.out.println("idea");
     }
 }
